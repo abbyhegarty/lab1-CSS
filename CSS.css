@@ -1,5 +1,9 @@
 body {
-      font family: courier new;
+      font-family: "Courier New", Courier, serif;
       background-color: DarkSeaGreen;}
-h1 {
-      color: DarkSeaGreen;}
+* {
+      color: #000066;}
+
+a {
+    cursor:pointer;
+}
